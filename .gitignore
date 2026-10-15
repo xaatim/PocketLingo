@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+build/
+node_modules/
